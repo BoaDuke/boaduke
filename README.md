@@ -5,4 +5,10 @@
 <img src="https://raw.githubusercontent.com/codingandfitness/codingandfitness/master/gh-header.gif" alt="Migu3L Meza - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
 
 
-Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Solution Architect. Entrepreneur from the :heart:
+Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Solution Architect and I'm an Entrepreneur from the :heart:
+
+- :punch: I’m currently working on [CIMADent](https://cimadent.cl)
+- :page_with_curl: I’m currently learning Serverless Infraestructure andTtools for fast development
+- :speech_balloon: Ask me about anything [here](https://github.com/codingandfitness/codingandfitness/issues)
+
+![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=codingandfitness&count_private=true)
