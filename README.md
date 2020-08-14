@@ -11,4 +11,4 @@ Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Soluti
 - :page_with_curl: I’m currently learning Serverless Infraestructure andTtools for fast development
 - :speech_balloon: Ask me about anything [here](https://github.com/codingandfitness/codingandfitness/issues)
 
-![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=codingandfitness&count_private=true)
+![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=codingandfitness&count_private=true&show_icons=true)
