@@ -8,7 +8,7 @@
 Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Solution Architect and I'm an Entrepreneur from the :heart:
 
 - :punch: I’m currently working on [CIMADent](https://cimadent.cl)
-- :page_with_curl: I’m currently learning Serverless Infraestructure andTtools for fast development
+- :page_with_curl: I’m currently learning Serverless Infraestructure and Tools for fast development
 - :speech_balloon: Ask me about anything [here](https://github.com/Migu33l/Migu33l/issues)
 
 ![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=Migu33l&count_private=true&show_icons=true)
