@@ -10,7 +10,6 @@ Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Soluti
 
 - :punch: I’m currently working on [CIMADent](https://cimadent.cl)
 - :page_with_curl: I’m currently learning Serverless Infraestructure and Tools for fast development
-- :speech_balloon: Ask me about anything [here](https://github.com/Migu33l/Migu33l/issues)
 
 <h3>:pencil2: Tech Stack</h3>
 
@@ -21,5 +20,11 @@ Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Soluti
 - :iphone: &nbsp; Flutter | Ionic | React Native
 - :battery: &nbsp; MySQL | Postgres | DynamoDB | MongoDB
 - :cloud: &nbsp; AWS
+
+<h3>🌍 Find me around the web</h3>
+
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/boadude/">LinkedIn</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://migu3l.dev">Migu3l.dev</a>
+- :speech_balloon: Ask me about anything [here](https://github.com/Migu33l/Migu33l/issues)
 
 ![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=Migu33l&count_private=true&show_icons=true)
