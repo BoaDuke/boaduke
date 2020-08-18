@@ -19,5 +19,6 @@ Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Soluti
 - :bookmark_tabs: &nbsp; JAMStack | Gatsby | Jekyll | Hugo | Strapi | Contentful
 - :iphone: &nbsp; Flutter | Ionic | React Native
 - :battery: &nbsp; MySQL | Postgres | DynamoDB | MongoDB
+- :cloud: &nbsp; AWS
 
 ![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=Migu33l&count_private=true&show_icons=true)
