@@ -4,6 +4,8 @@
 [![Dev Badge](https://img.shields.io/badge/-DEV.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/migu3l)](https://dev.to/migu3l) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boadude@gmail.com)](mailto:boadude@gmail.com)
 
+![Profile views](https://gpvc.arturio.dev/migu33l)
+
 <img src="https://raw.githubusercontent.com/Migu33l/Migu33l/master/gh-header.gif" alt="Migu3L Meza - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
 
 
