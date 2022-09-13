@@ -1,8 +1,8 @@
 # Hey, I'm Miguel Meza from Chile :wave:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boadude/)](https://www.linkedin.com/in/boadude/)
-[![Dev Badge](https://img.shields.io/badge/-DEV.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/migu3l)](https://dev.to/migu3l) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boadude@gmail.com)](mailto:boadude@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boaduke/)](https://www.linkedin.com/in/boaduke/)
+[![Dev Badge](https://img.shields.io/badge/-DEV.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/boaduke)](https://dev.to/boaduke) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguel@dukes.dev)](mailto:miguel@dukes.dev)
 
 ![Profile views](https://gpvc.arturio.dev/migu33l)
 
