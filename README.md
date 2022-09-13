@@ -4,9 +4,9 @@
 [![Dev Badge](https://img.shields.io/badge/-DEV.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/boaduke)](https://dev.to/boaduke) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguel@dukes.dev)](mailto:miguel@dukes.dev)
 
-![Profile views](https://gpvc.arturio.dev/migu33l)
+![Profile views](https://gpvc.arturio.dev/boaduke)
 
-<img src="https://raw.githubusercontent.com/Migu33l/Migu33l/master/gh-header.gif" alt="Migu3L Meza - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
+<img src="https://raw.githubusercontent.com/boaduke/boaduke/master/gh-header.gif" alt="BoaDuke - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
 
 
 Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Solution Architect and I'm an Entrepreneur from the :heart:
