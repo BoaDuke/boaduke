@@ -9,25 +9,18 @@
 <img src="https://raw.githubusercontent.com/boaduke/boaduke/master/gh-header-v2.png" alt="BoaDuke - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
 
 
-Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Solution Architect and I'm an Entrepreneur from the :heart:
+Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Principal Solution Architect.
 
-- :punch: I’m currently working on [CIMADent](https://cimadent.cl)
-- :page_with_curl: I’m currently learning Serverless Infraestructure and Tools for fast development
-
-<h3>:pencil2: Tech Stack</h3>
+<h3>:pencil2: About my knowledge</h3>
 
 - :computer: &nbsp; Javascript | Node.js | Java | Python | Rust | Goland | Dart
-- :books: &nbsp; Bootstrap | Tailwind | Material
-- :triangular_ruler: &nbsp; Angular | Vue | React
-- :bookmark_tabs: &nbsp; JAMStack | Gatsby | Jekyll | Hugo | Strapi | Contentful
-- :iphone: &nbsp; Flutter | Ionic | React Native
-- :battery: &nbsp; MySQL | Postgres | DynamoDB | MongoDB
+- :books: &nbsp; DDD | OOP | API | EDA | Event Sourcing | CQRS
 - :cloud: &nbsp; AWS
 
 <h3>🌍 Find me around the web</h3>
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/boadude/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://migu3l.dev">Migu3l.dev</a>
-- :speech_balloon: Ask me about anything [here](https://github.com/Migu33l/Migu33l/issues)
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/boaduke/">LinkedIn</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://dukes.dev">Dukes.dev</a>
+- :speech_balloon: Ask me about anything [here](https://github.com/boaduke/boaduke/issues)
 
-![Migu3L github stats](https://github-readme-stats.vercel.app/api?username=Migu33l&count_private=true&show_icons=true)
+![BoaDuke github stats](https://github-readme-stats.vercel.app/api?username=boaduke&count_private=true&show_icons=true)
