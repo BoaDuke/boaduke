@@ -13,9 +13,9 @@ Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Princi
 
 <h3>:pencil2: About my knowledge</h3>
 
-- :computer: &nbsp; Javascript | Node.js | Java | Python | Rust | Goland | Dart
-- :books: &nbsp; DDD | OOP | API | EDA | Event Sourcing | CQRS
-- :cloud: &nbsp; AWS
+- :computer: &nbsp; Javascript | Node.js | Java | Python | Rust | Golang | Dart
+- :books: &nbsp; DDD | OOP | API | EDA | Event Sourcing | CQRS | Serverless
+- :cloud: &nbsp; AWS Certified Solution Architect
 
 <h3>🌍 Find me around the web</h3>
 
