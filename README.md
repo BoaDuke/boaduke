@@ -1,4 +1,4 @@
-# Hey, I'm Migu3L from Chile :wave:
+# Hey, I'm Miguel Meza from Chile :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boadude/)](https://www.linkedin.com/in/boadude/)
 [![Dev Badge](https://img.shields.io/badge/-DEV.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/migu3l)](https://dev.to/migu3l) 
