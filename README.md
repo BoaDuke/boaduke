@@ -11,10 +11,4 @@
 
 I am an Expert Senior Technical Leader/Manager with a passion for delivering impactful solutions and driving business success. With a focus on technical and strategic leadership, I specialize in technology standardization and optimization, large-scale application development, systems integrations, and cloud computing.
 
-<h3>🌍 Find me around the web</h3>
-
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/boadude/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://dukes.dev">Dukes.dev</a>
-- :speech_balloon: Ask me about anything [here](https://github.com/boadude/boadude/issues)
-
 ![BoaDuke github stats](https://github-readme-stats.vercel.app/api?username=boadude&count_private=true&show_icons=true)
