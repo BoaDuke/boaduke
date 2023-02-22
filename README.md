@@ -9,13 +9,7 @@
 <img src="https://raw.githubusercontent.com/boadude/boadude/master/gh-header-v2.png" alt="BoaDuke - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
 
 
-Hi there, my name is Miguel Meza. I'm currently working in Consorcio as a Principal Solution Architect.
-
-<h3>:pencil2: About my knowledge</h3>
-
-- :computer: &nbsp; Javascript | Node.js | Java | Python | Rust | Golang | Dart
-- :books: &nbsp; DDD | OOP | API | EDA | Event Sourcing | CQRS | Serverless
-- :cloud: &nbsp; AWS Certified Solution Architect
+I am an Expert Senior Technical Leader/Manager with a passion for delivering impactful solutions and driving business success. With a focus on technical and strategic leadership, I specialize in technology standardization and optimization, large-scale application development, systems integrations, and cloud computing.
 
 <h3>🌍 Find me around the web</h3>
 
