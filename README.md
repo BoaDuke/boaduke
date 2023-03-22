@@ -9,6 +9,6 @@
 <img src="https://raw.githubusercontent.com/boadude/boadude/master/gh-header-v2.png" alt="BoaDude - Full-stack Software Developer, Cloud Architect, Hybrid Application Developer, Entrepreneur, IOT fanboy, Loving Husband, and Dog Lover">
 
 
-I am an Expert Senior Technical Leader/Manager with a passion for delivering impactful solutions and driving business success. With a focus on technical and strategic leadership, I specialize in technology standardization and optimization, large-scale application development, systems integrations, and cloud computing.
+I'm Miguel Meza, a Chilean Software Architect passionate about tech & innovation. I co-founded CIMADent & run a consultancy at Dukes.dev. Skilled in Dart, Java, PHP, Golang, and JavaScript. Eager to connect & collaborate on exciting projects. Let's innovate together! 💻🚀 Reach out: yo@miguelmeza.cl
 
 ![BoaDude github stats](https://github-readme-stats.vercel.app/api?username=boadude&count_private=true&show_icons=true)
